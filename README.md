@@ -21,26 +21,25 @@ This project is created to identify and address vulnerabilities in an organizati
 
 
 ## Screenshots
-Screenshot 1 (Network Diagram) <br>
-This shows a connection between two networks connected via an IPSec VPN
-Screenshot 1 (Network Diagram) <br>
-<img width="707" alt="image" src="https://github.com/user-attachments/assets/ce76d04d-bf32-4295-95dc-8daaadfc6f07" />
+## NMAP
+Screenshot 1 (Checking for Open Ports) <br>
+This shows using Nmap to check for open ports in metasploitable setup <br>
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/68cc0a7d-7241-4956-bd3b-53fcb02c9e29" /> <br>
+This screenshot shows that after Nmap has finished running, <br> 
+we can see the port number that open, the service it is running and even the version
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/005d406a-4252-4689-a029-c822dacd8a23" />
+
+## METASPLOIT
+Screenshot 1 (Scanning for Network Services) <br>
+This shows a more indepth scan on the system ports that can even display the mysql version running on the system <br>
+Futher demo will be restricted for security purposes.<br>
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/770d7a7b-5287-440c-b18d-25a1838511ed" />
+<img width="445" alt="image" src="https://github.com/user-attachments/assets/f28a844a-5493-4113-9324-9cccd2a94763" />
+<img width="445" alt="image" src="https://github.com/user-attachments/assets/fcc2fd52-870f-41f0-914f-f20021ada718" />
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/eca0e60d-c1b6-4b1f-928a-3b0a2503a6c2" />
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/b4abc50a-fad8-4bf7-a1ee-838c18ab685a" />
 
 
-
-Screenshot 2 (Root Fortigate) <br>
-This shows the full view of the security fabric and all connected devices. This view is from the root firewall <br>
-Compromised devices can be easily disconncted and quarantined from this singular device.
-<img width="1106" alt="image" src="https://github.com/user-attachments/assets/0eab695a-929f-41b9-a078-4f9ec38faaba" />
-
-Screenshot 3 (Root Fortigate) <br>
-This shows that all connected devices can be easily accessed from the singular interface
-<img width="1109" alt="image" src="https://github.com/user-attachments/assets/b1696c6d-8b66-42fb-852e-368b54493d32" />
-
-
-Screenshot 4 (Log View Root Fortigate) <br>
-This shows blocked traffic based on configured firewall policy and attaches a corresponding rating
-<img width="1114" alt="image" src="https://github.com/user-attachments/assets/19c31163-eae4-4670-b05c-9ae379286f8f" />
 
 
 
